@@ -6,6 +6,9 @@ Actualmente estoy profundizando en **Apache, PHP y administración de servidores
 
 ---
 
+<!-- Separador brillante -->
+<img src="assets/separador-brillo.svg" width="100%"/>
+
 ## 🛠️ Tecnologías y herramientas  
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
@@ -21,17 +24,21 @@ Actualmente estoy profundizando en **Apache, PHP y administración de servidores
 
 ---
 
-## 📊 Estadísticas en GitHub  
+<!-- Separador brillante -->
+<img src="assets/separador-brillo.svg" width="100%"/>
+
+## 📊 Mis estadísticas en GitHub  
 
 ![Juan Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=junkun123&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkun123&layout=compact&theme=transparent)  
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=junkun123&layout=compact&theme=transparent)  
 
 ---
+
+<!-- Separador brillante -->
+<img src="assets/separador-brillo.svg" width="100%"/>
 
 ## 📬 Contacto  
 
 Si quieres hablar sobre proyectos, servidores o desarrollo web:  
 
 📧 **[jjuancitop1@gmail.com](mailto:jjuancitop1@gmail.com)**  
-
----
