@@ -1,29 +1,20 @@
-# Hola, soy Juan Carlos 👋  
+# 👋 Hola, soy Juan Carlos  
 
-💻 Apasionado por **Linux, servidores y desarrollo web**  
-🌐 Interesado en tecnologías como **Apache, PHP, SQL Server y redes**  
-🚀 Siempre aprendiendo y experimentando con nuevas herramientas  
+Soy entusiasta de la tecnología y del software libre. Trabajo principalmente en **Linux** y me interesa el mundo de los **servidores web, redes y bases de datos**. Disfruto montar entornos desde cero, configurar servicios y aprender nuevas herramientas para mejorar mis proyectos.  
 
----
-
-## 📖 Sobre mí  
-
-- 🐧 Me muevo principalmente en **Linux (Debian, Ubuntu)**  
-- 🌱 Actualmente explorando: **servidores web, bases de datos y despliegue en la nube**  
-- 💬 Pregúntame sobre: **Apache, PHP, SQL Server, redes y configuración de servidores**  
-- 📫 Contáctame: **[jjuancitop1@gmail.com](**  
-- ⚡ Dato curioso: Me gusta aprender montando entornos completos desde cero 🛠️  
+Actualmente estoy profundizando en **Apache, PHP y administración de servidores**, además de experimentar con bases de datos y despliegue en la nube.  
 
 ---
 
-## 🛠️ Lenguajes y Herramientas  
+## 🛠️ Tecnologías y herramientas  
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-000000?style=flat&logo=apache&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=flat&logo=microsoftsqlserver&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
@@ -37,6 +28,10 @@
 
 ---
 
-## 🌐 Conecta conmigo  
+## 📬 Contacto  
 
-[![Gmail](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:jjuancitop1@gmail.com)  
+Si quieres hablar sobre proyectos, servidores o desarrollo web:  
+
+📧 **[jjuancitop1@gmail.com](mailto:jjuancitop1@gmail.com)**  
+
+---
